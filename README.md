@@ -1,6 +1,6 @@
 # Palvelinten-hallinta-25-kevat
 
-Weekly homework/report for the course Palvelinten Hallinta by Tero Karvinen
+Weekly homework/report for the course Palvelinten Hallinta by Tero Karvinen.
 
 ## Table of Contents
 Hyperlinks for all the reports.
